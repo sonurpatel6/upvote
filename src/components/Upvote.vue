@@ -35,11 +35,11 @@ button {
   cursor:pointer;
 }
 .voted{
-  background-color:skyblue;
-  color:blue;
+  background-color:#E5E8FD;
+  color:#253CF2;
 }
 .notvoted{
-  background-color:grey;
-  color:black;
+  background-color:#F4F6F8;
+  color:#343A40;
 }
 </style>
