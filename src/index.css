@@ -1,0 +1,38 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+Upvote{
+  margin : 0 5px;
+}
+
+.vote-container{
+  display: flex;
+}
+.votes-list {
+  width: 90%;
+  border: 3px solid grey;
+  border-radius: 10px;
+  padding :5px;
+  margin: 10px;
+  text-align:left;
+}
+.add-new {
+  padding: 20px 10px 10px;
+  margin: 10px;
+ 
+}
+.btn{
+  padding:10px 20px;
+  display: inline-block;
+  border-radius:10px;
+  font-size: 30px;
+  font-weight: bold;
+  background-color:grey;
+  color:black;
+  cursor:pointer;
+}
